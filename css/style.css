@@ -1,0 +1,76 @@
+body{
+	font-family: Segoe UI, "Helvetica Neue";
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: rgba(29,14,0,0.7) !important;
+}
+footer{
+	background-color: #432A1C;
+	padding: 25px 0;
+	border-top: 4px solid #432a1c;
+	color: #fff;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+#carouselheader .imga{
+	background-image: url(../img/slider1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 500px;
+	padding: 15% 0;
+	text-align: center;
+}
+#carouselheader .imgb{
+	background-image: url("../img/slider2.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	padding: 15% 0;
+	text-align: center;
+	height: 500px;
+}
+#carouselheader .imgc{
+	background-image: url("../img/slider3.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 15% 0;
+	text-align: center;
+	height: 500px;
+}
+.carousel-inner h1{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700px;
+	color: #fff;
+	background-color: rgba(0,0,0,0.50);
+	text-transform: uppercase;
+}
+.carousel-inner h2{
+	font-family: 'Arimo';
+	font-weight: 40px;
+	color: #fff;
+	background-color: rgba(0,0,0,0.50);
+	text-transform: uppercase;
+}
+.naranja{
+	background-color: #C38346;
+	height: 5px;
+}
+.cafe{
+	background-color: #381306;
+	height: 5px;
+}
+#ourspeciality .color{
+	background-color: #381305;
+	left: 0;
+	right: 0;
+}
+
+
+
